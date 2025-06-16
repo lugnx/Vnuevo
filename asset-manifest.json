@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vnuevo/static/css/main.f855e6bc.css",
+    "main.js": "/Vnuevo/static/js/main.db1a2d4a.js",
+    "static/js/453.8ab44547.chunk.js": "/Vnuevo/static/js/453.8ab44547.chunk.js",
+    "index.html": "/Vnuevo/index.html",
+    "main.f855e6bc.css.map": "/Vnuevo/static/css/main.f855e6bc.css.map",
+    "main.db1a2d4a.js.map": "/Vnuevo/static/js/main.db1a2d4a.js.map",
+    "453.8ab44547.chunk.js.map": "/Vnuevo/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.db1a2d4a.js"
+  ]
+}
